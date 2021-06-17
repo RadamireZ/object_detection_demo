@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'router'
+}
+item {
+    id: 2
+    name: 'games'
+}
+item {
+    id: 3
+    name: 'plant'
+}
